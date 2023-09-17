@@ -1,5 +1,5 @@
 # upload.ai-web
 
-![](https://github.com/euvini/blob/main/upload.ai-web/capa.png)
+![](https://github.com/euvini/upload.ai-web/blob/main/capa.png)
 
 
